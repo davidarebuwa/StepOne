@@ -1,11 +1,3 @@
-//
-//  ItemDetailViewController.swift
-//  StepOne
-//
-//  Created by David Arebuwa on 01/08/2020.
-//  Copyright © 2020 David Arebuwa. All rights reserved.
-//
-
 import UIKit
 
 class ItemDetailViewController: UIViewController, UICollectionViewDelegate,UICollectionViewDataSource {
